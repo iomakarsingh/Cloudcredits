@@ -89,7 +89,6 @@ A robust Java-based desktop application for managing library operations with a u
   - Username: admin
   - Password: admin123
 
-## Project Structure 
 
 ## Security Features
 - Password hashing using SHA-256
